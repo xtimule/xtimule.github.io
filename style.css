@@ -1,0 +1,28 @@
+.heading {
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.about {
+    text-align: center;
+    border: 3px solid black ;
+    border-radius: 15px;
+    background-color:lightblue;
+}
+.classes {
+    background-color: lightcyan;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: 3px solid black;
+    border-radius: 15px;
+    padding-left: 10ch;
+}
+.mood {
+    padding-left: 10ch;
+    border: 3px solid black;
+    border-radius: 15px;
+}
+.emojis {
+    text-align: center;
+}
+.emoji-container {
+    display:flex
+}
